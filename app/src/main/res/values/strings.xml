@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">로보77</string>
+    <string name="main_join">방 참가</string>
+    <string name="main_create">방 만들기</string>
+
+    <string name="create_staycount">방 참가인원</string>
+</resources>
